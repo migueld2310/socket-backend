@@ -43,7 +43,7 @@ io.on('connection', function (socket) {
     ;
 
     // console.log( socket.handshake.headers['user-agent']); //Obtener navegador
-
+ //commit desde el github
 
 
     socket.on('disconnect', function () {
